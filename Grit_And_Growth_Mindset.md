@@ -1,10 +1,10 @@
 # Grit and Growth Mindset
 
-## 1.) Paraphrase (summarize) the video in a few (1 or 2) lines. Use your own words.
+## 1.) Paraphrase (summarize) the video in a few (1 or 2) lines. Use your own words
 
-The speaker discusses her career shift from management consulting to teaching, emphasizing that grit—defined as passion and perseverance—plays a more significant role in success than IQ. She advocates for further research and collaboration between educators and parents to develop grit and a growth mindset in students. 
+The speaker discusses her career shift from management consulting to teaching, emphasizing that grit—defined as passion and perseverance—plays a more significant role in success than IQ. She advocates for further research and collaboration between educators and parents to develop grit and a growth mindset in students.
 
-## 2.) Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.
+## 2.) Paraphrase (summarize) the video in a few (1 or 2) lines in your own words
 
 The video explains how having a "growth mindset," where you believe you can improve with effort, helps people learn and succeed more than a "fixed mindset," where abilities are seen as unchangeable. It shows that adopting this mindset can lead to better results in school, work, and life.
 
@@ -14,7 +14,7 @@ An Internal Locus of Control means believing that you can control what happens i
 
 The key point in the video is that people with an internal locus of control are more motivated and willing to face challenges because they believe their hard work can make a difference. The video suggests praising effort rather than just intelligence to help build this mindset.
 
-## 4.) What are the key points mentioned by speaker to build growth mindset (explanation not needed).
+## 4.) What are the key points mentioned by speaker to build growth mindset (explanation not needed)
 
 Here are the key points to build a growth mindset:
 - Believe in your ability to improve.
